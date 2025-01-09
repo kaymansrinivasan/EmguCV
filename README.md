@@ -20,7 +20,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/emgucv-csharp-project.git
+git clone https://github.com/kaymansrinivasan/emgucv-csharp-project.git
 cd emgucv-csharp-project
 Install EmguCV using NuGet:
 
